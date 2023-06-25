@@ -10,12 +10,12 @@
 
 ## Observed perf on Mac Pro Intel
 
-### Chrome
+### Chrome [🐞](https://bugs.chromium.org/p/chromium/issues/detail?id=1457783)
 
 - Fast load (~5s)
 - Big lag when switching from the `Fetch/HMR` tab to the `JS` tab.
 
-### Firefox
+### Firefox [🐞](https://bugzilla.mozilla.org/show_bug.cgi?id=1840284)
 
 - Very slow load (~1m)
 - Moderate lag when switching from the `Fetch/HMR` tab to the `JS` tab.
